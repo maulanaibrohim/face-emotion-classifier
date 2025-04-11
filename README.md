@@ -8,11 +8,11 @@ A simple CNN-based app to classify facial emotions using deep learning and Strea
 - Upload a face image and get predictions + confidence chart
 - Built with TensorFlow + Streamlit
 
-## 🚀 Try It Live
+## Try It Live
 
-👉 [Hugging Face Space](https://huggingface.co/spaces/maulanaibrohim/facial-emotion-classifier)
+[Hugging Face Space](https://huggingface.co/spaces/maulanaibrohim/facial-emotion-classifier)
 
-## 🛠️ Run Locally
+## Run Locally
 
 ```bash
 git clone https://github.com/your-username/face-emotion-classifier.git
