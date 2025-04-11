@@ -24,7 +24,11 @@ streamlit run app.py
 ## Files
 
 augment_data.py – Adds image augmentations to expand the dataset.
+
 train_model.py – Trains the CNN model on the dataset.
+
 split_dataset.py – Splits data into train/val/test sets.
+
 scrape_image.py – Collects facial images (e.g., via web scraping).
+
 evaluate_model.py – Evaluates model performance on test data.
