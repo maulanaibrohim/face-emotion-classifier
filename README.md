@@ -32,3 +32,6 @@ split_dataset.py – Splits data into train/val/test sets.
 scrape_image.py – Collects facial images (e.g., via web scraping).
 
 evaluate_model.py – Evaluates model performance on test data.
+
+## Why the Accuracy is Low
+This model is a simple prototype trained on a very small dataset (<20 images per class). To compensate, image augmentation was applied (rotation, flip, zoom, etc.) — but while it increases quantity, it doesn’t add real variation in facial expressions.
